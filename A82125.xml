@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the bloudie and unchristian acting of William Star and John Taylor of Walton, vvith divers men in womens apparell, in opposition to those that dig upon George-hill in Surrey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82125</idno>
+            <idno type="STC">Wing D644</idno>
+            <idno type="STC">Thomason E561_6</idno>
+            <idno type="STC">ESTC R206011</idno>
+            <idno type="EEBO-CITATION">99865219</idno>
+            <idno type="PROQUEST">99865219</idno>
+            <idno type="VID">165211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165211)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E561[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the bloudie and unchristian acting of William Star and John Taylor of Walton, vvith divers men in womens apparell, in opposition to those that dig upon George-hill in Surrey.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert at the black Spread-Eagle in the West end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taylor, John, --  of Walton-on-Thames.</term>
+               <term>Star, William.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Female impersonators --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165211:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF The bloudie and unchriſtian acting of <hi>William Star</hi> and <hi>John Taylor</hi> OF WALTON, VVith divers men in womens apparell, in oppoſition to thoſe that dig upon <hi>George-hill</hi> in <hi>Surrey.</hi>
+            </p>
+            <p>
+               <add>June 22</add>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvers</hi> at the black Spread-Eagle at the Weſt end of <hi>Pauls.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165211:2"/>
+            <pb n="1" facs="tcp:165211:2"/>
+            <head>A DECLARATION OF The bloody and unchriſtian acting of WILLIAM STAR, and JOHN TAYLOR OF WALTON, VVith divers men in womens apparell, in oppoſition to thoſe that dig upon <hi>George-hill</hi> in <hi>Surrey,</hi> &amp;c.</head>
+            <p>UPon the 11. day of June 1649. foure men only being fitting and preparing the ground for a winter ſeaſon, upon that Common called George-hill, there came to them, <hi>William Starr</hi> of <hi>Wal<g ref="char:EOLhyphen"/>ton,</hi> and <hi>Iohn Taylor,</hi> two free-holders, being on horſe<g ref="char:EOLhyphen"/>back, having at their heels ſome men in womens appa<g ref="char:EOLhyphen"/>rell on foot, with every one a ſtaffe or club, and as ſoon as they came to the diggers, would not ſpeak like men, but like bruit beaſts that have no underſtanding, they fell furiouſly upon them, beating and ſtriking thoſe foure naked men, beating them to the ground, breaking
+<pb n="2" facs="tcp:165211:3"/>their heads, and ſore bruiſing their bodies, whereof one is ſo ſore bruiſed, that it is feared he will not eſcape with life.</p>
+            <p>Theſe foure men all the time were quiet and patient, willing and reſolving to deliver up their lives unto their Creator at that time, knowing no other, but that the o<g ref="char:EOLhyphen"/>thers purpoſe was to murder; and it is believed, when thoſe furious divells <hi>Taylor</hi> and <hi>Starr</hi> went from them, they thought they had been dead, in regard they left them feeble, and weak, and ſore wounded, lying upon the ground, yet after ſome time recovering ſtrength, three were able to riſe and walk, the fourth that is in danger of his life was brought home in a cart, being not able to move: yet very cheerfull all of them in ſpi<g ref="char:EOLhyphen"/>rit, not willing to ſeek revenge, but have committed their cauſe to him that judges righteouſly, to whom vengeance belongs, reſolving as ſoon as their bodies are well, to go on in that righteous work: and if the Fa<g ref="char:EOLhyphen"/>ther have purpoſed that the life of their bodies muſt be ſacrificed, to juſtifie this cauſe, they find a quiet and contented willingneſſe to ſubmit to his will. One thing may be obſerved to ſet forth the malicious wickedneſſe in <hi>Taylor</hi> and <hi>Star,</hi> which is this:</p>
+            <p>Theſe foure men deſired that they would bring them before their Law to anſwer in juſtification of the work, yet thoſe divells, with the men in womens apparell, would not agree to that, but fell on, beating with their long ſtaves upon their bodies without mercie, a teſti<g ref="char:EOLhyphen"/>mony ſufficient that this cauſe of digging is juſt and good, in regard of the furious and bloudy actings of men againſt ſuch as carrie on the work with love and patience, which is a ſtrange thing in a Chriſtian Land,
+<pb n="3" facs="tcp:165211:3"/>and done by ſuch men as are profeſſing Chriſtians; con<g ref="char:EOLhyphen"/>ſidering withall, that theſe diggers do only make uſe of the Commons, ſeeing they have paid taxes, and given free-quarter; and therefore by the Law of contract, ought to have freedom therein, as well as the free-hol<g ref="char:EOLhyphen"/>ders have freedom in their Incloſures; the diggers de<g ref="char:EOLhyphen"/>claring, they will neither meddle with Corn, Cattell, nor incloſure Land, but only in the Commons; and that they are ready to anſwer to all the Laws of the Land as Defendents, but not as Plaintiffs. Surely this fury in the free-holders declares plainly, that they got their Lands, both they and their Fathers, by murder, violence, and theft, and they keep it by the ſame power, in regard they will not ſpeak like men, but fight and devoure like beaſts. Well let the world take notice, that we that do juſtifie this cauſe of digging, have o<g ref="char:EOLhyphen"/>beyed the Lord, in ſetting forward this work of endea<g ref="char:EOLhyphen"/>vouring to bring the earth into a Community, and we have peace and purpoſes to go on, and we are lively witneſſes, and ſhall be at the day of Judgement, againſt theſe and all others that have and may ſo furiouſly op<g ref="char:EOLhyphen"/>poſe us; and rebelliouſly fight againſt the Prince of Peace, the great Saviour that is now ſpreading himſelf in the earth to bring all things into a oneneſſe, and to deliver the Creation from bondage.</p>
+            <p>Right underſtanding and peace among brethren, is the ſtrength of a Land, ignorance and fury brings ſhame and deſtruction. England is a Land, wherein the Power of the moſt High hath greatly declared his Power, both in caſting down the pride of many mens hearts, and making them ſubject to righteouſneſſe, and in caſt<g ref="char:EOLhyphen"/>ing down the bodies of ſome that were proud oppreſ<g ref="char:EOLhyphen"/>ſors
+<pb n="4" facs="tcp:165211:4"/>to be as dung to the earth, daſhing one power a<g ref="char:EOLhyphen"/>gainſt another, changing times and cuſtomes, and therein trying the ſincerity of many that make a great ſhew of love to him.</p>
+            <p>Every one that ſeems to prevaile over another, ſaies, God gave him the victory, though his conqueſt be tyranny over his brother, making the King of Righteouſneſſe the Author of ſorrowes, and comfort, not knowing the diſtinction between the power of darkneſſe and the power of light: Victories that are got by the ſword, are but victories of the Murtherer, and the joy of thoſe victories is but the joy of <hi>Caine,</hi> when he had killed his brother <hi>Abel;</hi> the Dragon hath fought againſt the Dragon, and one part conquered a<g ref="char:EOLhyphen"/>nother, and great joy hath been amongſt the Midia<g ref="char:EOLhyphen"/>nites for thoſe victories, and the King of Righteouſ<g ref="char:EOLhyphen"/>neſſe hath been a looker on, and ſuffered them to breake each other to pieces, that his power at laſt might come in.</p>
+            <p>But now O England know this, that thy ſtriving now is not only Dragon againſt Dragon, Beaſt againſt Beaſt, Covetouſneſſe and Pride againſt Covetouſneſſe and Pride, but thou now begin'ſt to fight againſt the Lamb, the Dove, the meek Spirit, the power of love, and wilt not willingly ſuffer that Prince of Peace to have a houſe to dwell in upon earth, (which is humane bodies) but ſeekſt to impriſon, beat, kill, or elſe to with<g ref="char:EOLhyphen"/>draw all aſſiſtance of favour from them: Well, thou haſt rejoyced in thy former victories one beaſt over a<g ref="char:EOLhyphen"/>nother, and thou haſt had, and may have ſeeming vi<g ref="char:EOLhyphen"/>ctories over the Lamb, and may rejoyce; but know, that this ſtone (which is alone) againſt whom thou haſt
+<pb n="5" facs="tcp:165211:4"/>begun to lift up thy heel, ſhall grind thee to powder. Love ſuffers under thy furie, love ſuffers under thy hy<g ref="char:EOLhyphen"/>pocriſie, under thy pride, careleſſe, covetous, hard<g ref="char:EOLhyphen"/>hearted, ſelf-ſeeking children. Love bears all things patiently, he ſuffers thee to reproach, to fight, to op<g ref="char:EOLhyphen"/>poſe, and to rejoyce in doing thoſe things. Love ſe<g ref="char:EOLhyphen"/>cretly ſeeks thy preſervation, but thou openly ſeekeſt his deſtruction, and glories like a man that hath put off his armour at every ſeeming ſhew of victory: but the battell between the Dragon and the Lamb is begun in the midſt of thee, and a few years now will let all the world ſee who is ſtrongeſt, love or hatred, freedom or bondage.</p>
+            <p>Therefore thy battells now are not as they were, for now the Lord, the Prince of Peace comes to ſave thee, and thou fight'ſt againſt him as an enemy, and wilt not be ſaved by him, he calls for Peace, thou cal'ſt for war, he calls to Freedome, thou cal'ſt ſtill for bondage, he ſaith put up thy Sword and live in love, thou ſaiſt draw the Sword againſt all that will live in love. Well, Eng<g ref="char:EOLhyphen"/>land take thy courſe, but know for all this thou ſhalt come to Judgement.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
